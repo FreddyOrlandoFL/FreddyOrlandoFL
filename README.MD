@@ -1,5 +1,5 @@
 # 💫 About Me:
-Developer Full Stack . My skills are (Laravel, Codeigniter, PHP, API Rest, Node Js, Express Js, Vue Js, ExtJs.)<br>database management Sql(Oracle, PostgreSQL, MySql, MaraiDB) NoSQL(MongoDB) Key value (Redis)<br>i'm looking for team working<br>im currently working on my own projects<br>im looking to collaborate with others developer<br>im currently learning JAVA and Angular<br>
+Developer Full Stack . My skills are (Laravel, Codeigniter, PHP, API Rest, Node Js, Express Js, Vue Js, ExtJs.)<br>database management Sql(Oracle, PostgreSQL, MySql, MaraiDB) NoSQL(MongoDB) Key value (Redis)<br>i'm looking for team working<br>im currently working on my own projects<br>im looking to collaborate with others developer<br>im currently learning JAVA , Spring Boot , Python and Angular<br>
 
 
 ## 🌐 Socials:
