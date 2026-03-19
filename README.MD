@@ -1,13 +1,9 @@
 # 💫 About Me:
 Hi there! I'm a Senior Software Engineer 💻
 Main Focus: Golang & Software Architecture.
-
 FullStack Skills: JavaScript (Node, React, Vue), PHP (Laravel), and Mobile (Ionic).
-
 Data Management: SQL (Postgres, Oracle, MariaDB) & NoSQL (MongoDB, Redis).
-
 Current Journey: Expanding my toolkit with Java/Spring Boot and Python.
-
 Goal: Collaborating with other developers on challenging projects.
 <br>
 
