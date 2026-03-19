@@ -1,5 +1,15 @@
 # 💫 About Me:
-Developer Full Stack . My skills are (Laravel, Codeigniter, PHP, API Rest, Node Js, Express Js,Golang, Vue Js,React, Ionic, ExtJs.)<br>database management Sql(Oracle, PostgreSQL, MySql, MaraiDB) NoSQL(MongoDB) Key value (Redis)<br>i'm looking for team working<br>im currently working on my own projects<br>im looking to collaborate with others developer<br>im currently learning JAVA , Spring Boot , Python and Angular<br>
+Hi there! I'm a Senior Software Engineer 💻
+Main Focus: Golang & Software Architecture.
+
+FullStack Skills: JavaScript (Node, React, Vue), PHP (Laravel), and Mobile (Ionic).
+
+Data Management: SQL (Postgres, Oracle, MariaDB) & NoSQL (MongoDB, Redis).
+
+Current Journey: Expanding my toolkit with Java/Spring Boot and Python.
+
+Goal: Collaborating with other developers on challenging projects.
+<br>
 
 
 ## 🌐 Socials:
